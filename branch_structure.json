@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "claude/peaceful-heisenberg-7gc5vh",
+    "docs/linux-breakage-list",
+    "docs/runner-gallery",
+    "feat/first-run-wizard",
+    "main",
+    "origin",
+    "renders/pr-68"
+  ],
+  "parent": {
+    "claude/peaceful-heisenberg-7gc5vh": "main",
+    "docs/linux-breakage-list": "main",
+    "docs/runner-gallery": "main",
+    "feat/first-run-wizard": "main",
+    "main": null,
+    "origin": "main",
+    "renders/pr-68": "main"
+  },
+  "order": [
+    "main",
+    "claude/peaceful-heisenberg-7gc5vh",
+    "docs/linux-breakage-list",
+    "docs/runner-gallery",
+    "feat/first-run-wizard",
+    "origin",
+    "renders/pr-68"
+  ]
+}
