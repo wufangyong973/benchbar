@@ -8,6 +8,8 @@ and Coffee cup, and you can add your own: a folder with a `manifest.json`
 and PNG frames. A working example with the script that drew it is in
 [`examples/runners/blob`](https://github.com/askysh/benchbar/tree/main/examples/runners/blob).
 
+A worked example, with its frames per state, is on the [Runner gallery](runner-gallery.md).
+
 ## Install one
 
 1. Open the BenchBar window (⌘M or "Apps, sites and settings…" in the popover) and pick **Menu Bar**.

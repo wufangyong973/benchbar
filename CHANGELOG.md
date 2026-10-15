@@ -5,6 +5,7 @@ All notable changes to this project are documented here.
 ## Unreleased
 
 ### Added
+- A runner gallery page (docs/runner-gallery.md) shows the built in runners and the example Blob runner, state by state, from the PNG frames already in the repo.
 
 - Doctor warns in WSL when NTP inside the distro fights the Windows host
   clock (`wsl_time_sync`): each NTP poll steps the clock when Windows has
